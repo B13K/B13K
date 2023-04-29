@@ -1,16 +1,46 @@
-### Hi there 👋
+### Hola! mi nombre es Jonathan Berna
 
-<!--
-**B13K/B13K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tambien conocido como B13K en GitHub
 
-Here are some ideas to get you started:
+### ¿Quien soy?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un programador Fullstack
+
+Desde muy joven me e interesado el mundo de la programacion. Mi primer lenguaje fue C# a nivel basico pero me permitio descubrir este fascinante mundo donde todo es posible dentro de la programacion y la motivacion que hay en poder crear apps que ayuden a mejorar la vida de las personas.
+
+### ¿Que hago?
+
+Actualmente estoy culminando un bootcamp de programacion Fullstack developer.
+
+### ¿A donde me dirijo?
+
+Mi objetivo principal es poder realizar projectos que impacten en el mundo del codigo.
+
+Me apasiona crear codigo y mejorar con cada proyecto que realizo, soy un autodidacta, me gusta aprender nuevas tecnologias y las formas de resolver un problema.
+
+### ¿Que tecnologias uso?
+
+- Javascript
+- React.js
+- Node.js
+- Express.js
+- PostgreSQL
+- Sequelize
+- GIT
+- HTML
+- CSS
+
+Entre otras tecnologias tambien tengo conocimientos basicos de
+
+- C#
+- Python
+- Angular
+
+
+### No dudes en contactarme
+Juntos podemos realizar un proyecto que cambien la vida de las personas
+
+Linkedin
+
+Correo: jonathan_3_7@hotmail.com
+
